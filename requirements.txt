@@ -1,5 +1,0 @@
-streamlit
-pandas
-plotly
-pyarrow
-gdown
